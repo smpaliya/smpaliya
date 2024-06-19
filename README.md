@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently learning web development
+i am currently learning web development and Machine Learning.
 
 
 ## 🌐 Socials:
